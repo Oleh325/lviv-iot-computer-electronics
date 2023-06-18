@@ -1,1 +1,2 @@
-# lviv-iot-computer-electronics
+This repository contains all 5 lab tasks and reports of the course "Computer Electronics, part 2" on Internet of Things program at the Lviv Polytechnic National University.
+Tasks can be found in the folder `tasks`.
